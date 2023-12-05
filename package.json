@@ -1,0 +1,51 @@
+{
+  "name": "random-extension-pack",
+  "displayName": "Random Encounter's TypeScript Extension Pack",
+  "description": "Extension Pack centered around TypeScript add-ons, AI-autocomplete, quality-of-life utilities, and LiveShare functionality. Install at your own peril, mortals!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+	 "aaron-bond.better-comments",
+	 "abrahamwilliam007.es7-javascript-class-snippets",
+	 "AhadCove.js-quick-console",
+	 "akamud.vscode-javascript-snippet-pack",
+	 "christian-kohler.npm-intellisense", 
+   "christian-kohler.path-intellisense",
+	 "cmstead.js-codeformer",
+	 "cmstead.jsrefactor",
+	 "dbaeumer.vscode-eslint",
+	 "donjayamanne.githistory",
+	 "eamodio.gitlens", 
+   "EditorConfig.EditorConfig", 
+   "eg2.vscode-npm-script", 
+	 "esbenp.prettier-vscode",
+	 "formulahendry.code-runner", 
+   "jasonnutter.search-node-modules",
+	 "kiteco.kite",
+	 "leizongmin.node-module-intellisense",
+	 "lostintangent.vsls-whiteboard",
+	 "mattpocock.ts-error-translator",
+	 "mingji.mock-typescript",
+	 "mhutchie.git-graph",
+	 "miramac.vscode-exec-node",
+	 "MS-vsliveshare.vsliveshare",
+	 "ms-vscode.vscode-typescript-next",
+	 "mxsdev.typescript-explorer",
+	 "numso.prettier-standard-vscode",
+	 "pmneo.tsimporter",
+	 "rvest.vs-code-prettier-eslint",
+	 "sburg.vscode-javascript-booster", 
+   "streetsidesoftware.code-spell-checker", 
+	 "TabNine.tabnine-vscode",
+	 "VisualStudioExptTeam.vscodeintellicode",
+	 "VisualStudioExptTeam.intellicode-api-usage-examples",
+	 "whtouche.vscode-js-console-utils",
+	 "xabikos.JavaScriptSnippets",
+	 "yoavbls.pretty-ts-errors"
+]
+}
